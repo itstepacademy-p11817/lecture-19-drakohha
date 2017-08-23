@@ -328,6 +328,7 @@ int main() {
 					}
 					
 			}
+			/*   // sortirovka vsego massiva
 				if (a[0][3] > a[1][0]) {
 					temp_2 = a[0][3];
 					a[0][3] = a[1][0];
@@ -343,7 +344,7 @@ int main() {
 					a[2][3] = a[3][0];
 					a[3][0] = temp_2;
 				}
-			
+			*/
 				ind++;
 
 				if (ind >= 16) {
